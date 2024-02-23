@@ -8,3 +8,8 @@ cd d:\folder_name
 ```sh
 dir
 ```
+
+Удаление файла
+```sh
+del <filename>
+```
