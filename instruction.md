@@ -28,3 +28,8 @@
 
 ## Картинки
 ![Логотип GeekBrains](https://upload.wikimedia.org/wikipedia/ru/4/48/Geekbrains_logo.svg "GB logo")
+
+## Таблицы
+|Столбец 1|Столбец 2|Столбец3|
+|-|-|-|
+|Запись 1|Запись2|Запись 3|
