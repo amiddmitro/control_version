@@ -25,3 +25,6 @@
 
 ## WEB ссылки
 Текст [пример ссылки](http.example.com "Всплывающая подсказка")
+
+## Картинки
+![Логотип GeekBrains](https://upload.wikimedia.org/wikipedia/ru/4/48/Geekbrains_logo.svg "GB logo")
