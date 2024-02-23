@@ -9,6 +9,11 @@ cd d:\folder_name
 dir
 ```
 
+создание директории
+```sh
+makedir <dirname>
+```
+
 Удаление файла
 ```sh
 del <filename>
