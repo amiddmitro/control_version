@@ -23,6 +23,7 @@ git commit -m "message"
 ```sh
 git log
 git log --oneline - укороченный вид
+git log --graph - вид с ветками
 ```
 
 ## Просмотр различий
@@ -46,3 +47,5 @@ git checkout <branch_name> - переход в ветку <branch_name>
 git branch - просмотр всех веток проекта. Будет показан список веток
 git branch <branch_name> - создание новой ветки
 git merge <branch_name> - слияние папок. Изменения из папки <branch_name> попадают в папку из которой выполняется эта команда.
+```
+
