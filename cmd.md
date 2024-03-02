@@ -19,3 +19,13 @@ makedir <dirname>
 ```sh
 del <filename>
 ```
+
+## Очистка экрана
+```sh
+cls
+```
+
+## просмотр и установка даты
+```sh
+date
+```
