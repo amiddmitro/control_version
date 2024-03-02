@@ -27,7 +27,8 @@
 Текст [пример ссылки](http.example.com "Всплывающая подсказка")
 
 ## Как добавлять картинки
-![Логотип GeekBrains](https://upload.wikimedia.org/wikipedia/ru/4/48/Geekbrains_logo.svg "GB logo")
+Это лого школы!
+![Логотип GeekBrains](Geekbrains_logo.svg "GB logo")
 
 ## Таблицы
 |Столбец 1|Столбец 2|Столбец3|
